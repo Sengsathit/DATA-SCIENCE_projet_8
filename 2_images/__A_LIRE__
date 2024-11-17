@@ -1,0 +1,5 @@
+Se trouve dans ce dossier :
+
+- le sous-dossier paruet_files qui contient les extraction des features des images. Features au format parquet.
+
+- le fichier pca_features.csv qui contient les features issues de la réduction de dimension avec l'ACP accompangées de leur label

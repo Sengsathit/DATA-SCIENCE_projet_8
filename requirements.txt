@@ -1,0 +1,6 @@
+Pandas
+pillow
+tensorflow-macos
+pyspark
+pyarrow
+numpy
